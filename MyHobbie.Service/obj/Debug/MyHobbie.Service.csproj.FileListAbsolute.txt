@@ -1,0 +1,10 @@
+C:\Users\glujan\Desktop\MyHobbieApp\MyHobbieApp\MyHobbie.Service\bin\MyHobbie.Service.dll
+C:\Users\glujan\Desktop\MyHobbieApp\MyHobbieApp\MyHobbie.Service\bin\MyHobbie.Service.pdb
+C:\Users\glujan\Desktop\MyHobbieApp\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.csprojResolveAssemblyReference.cache
+C:\Users\glujan\Desktop\MyHobbieApp\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.dll
+C:\Users\glujan\Desktop\MyHobbieApp\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.pdb
+D:\Git\MyHobbieApp\MyHobbie.Service\bin\MyHobbie.Service.dll
+D:\Git\MyHobbieApp\MyHobbie.Service\bin\MyHobbie.Service.pdb
+D:\Git\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.csprojResolveAssemblyReference.cache
+D:\Git\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.dll
+D:\Git\MyHobbieApp\MyHobbie.Service\obj\Debug\MyHobbie.Service.pdb
